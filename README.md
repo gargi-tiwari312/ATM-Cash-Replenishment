@@ -2,6 +2,9 @@
 
 Machine Learning-based system for predicting ATM cash demand and recommending optimal cash replenishment using historical ATM data.
 
+## 🚀 Live Demo
+
+🔗 [ATM Cash Replenishment Dashboard](https://atm-cash-replenishment-uwynsh5sqnjvts7mrpbzss.streamlit.app/)
 ## 📌 Project Overview
 
 The ATM Cash Replenishment Prediction System uses Machine Learning to predict the next-day cash demand of an ATM and recommend an appropriate replenishment amount.
