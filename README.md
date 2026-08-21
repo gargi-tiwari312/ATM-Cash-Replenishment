@@ -70,7 +70,17 @@ Replenishment Recommendation
 ATM-Cash-Replenishment/
 │
 ├── app.py
+├── atm_cash_management_dataset.csv
 ├── ATM_Cash_Replenishment_Model.pkl
-├── ATM_Cash_Replenishment_Model.ipynb
 ├── requirements.txt
 └── README.md
+```
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/gargi-tiwari312/ATM-Cash-Replenishment.git
+cd ATM-Cash-Replenishment
+pip install -r requirements.txt
+streamlit run app.py
+```
